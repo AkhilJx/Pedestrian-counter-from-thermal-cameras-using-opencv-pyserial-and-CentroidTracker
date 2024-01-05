@@ -1,0 +1,1 @@
+# Pedestrian-counter-from-thermal-cameras-using-opencv-and-CentroidTracker
